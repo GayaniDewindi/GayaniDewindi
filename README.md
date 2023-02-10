@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gayani Dewindi Vitharana</h1>
-<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
+<img align="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D4E16AQHMZ6dTh1xFOQ/profile-displaybackgroundimage-shrink_350_1400/0/1676053832750?e=1681344000&v=beta&t=Qi4frC97li2GTpSSBrPOjz398I4F5koGsoV04VJnxpQ"> 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayanidewindi&label=Profile%20views&color=0e75b6&style=flat" alt="gayanidewindi" /> </p>
 
