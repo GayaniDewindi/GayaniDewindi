@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D4E16AQHMZ6dTh1xFOQ/profile-displaybackgroundimage-shrink_350_1400/0/1676053832750?e=1681344000&v=beta&t=Qi4frC97li2GTpSSBrPOjz398I4F5koGsoV04VJnxpQ"> 
+<img align="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D5616AQFV7bmGOIBC1w/profile-displaybackgroundimage-shrink_350_1400/0/1677507652724?e=1683158400&v=beta&t=SrFhGwNKxTuW7DvvKGXR92Bbd6kLENPVIK8j4f17UN8"> 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayanidewindi&label=Profile%20views&color=0e75b6&style=flat" alt="gayanidewindi" /> </p>
 
